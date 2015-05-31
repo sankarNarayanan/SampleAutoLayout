@@ -43,7 +43,7 @@ class ViewController: UIViewController {
     
     func newMethod()
     {
-        //feature2
+        //feature1
         println()
     }
 
