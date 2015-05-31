@@ -42,6 +42,12 @@ class ViewController: UIViewController {
         let cell = tableView.dequeueReusableCellWithIdentifier("TableViewCell") as? TableViewCell
         return cell!
     }
+    
+    func newMethod()
+    {
+        //feature1
+        println()
+    }
 
 }
 

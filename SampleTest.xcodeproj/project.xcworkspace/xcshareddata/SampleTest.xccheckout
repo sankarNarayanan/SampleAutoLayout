@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
 	<string>A9448E6A-34E0-4866-83F2-C715B2E30171</string>
+=======
+	<string>42DC8756-3D89-406A-9E5E-2371DDAB9308</string>
+>>>>>>> feature2
 	<key>IDESourceControlProjectName</key>
 	<string>SampleTest</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
