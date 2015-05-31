@@ -15,6 +15,7 @@
 		0139E6F81ACC15D0009166DB /* SampleTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0139E6F71ACC15D0009166DB /* SampleTestTests.swift */; };
 		0139E7031ACC15E5009166DB /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0139E7011ACC15E5009166DB /* TableViewCell.swift */; };
 		0139E7041ACC15E5009166DB /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0139E7021ACC15E5009166DB /* TableViewCell.xib */; };
+		01E6657F1B1B721200F50687 /* File.txt in Resources */ = {isa = PBXBuildFile; fileRef = 01E6657E1B1B721200F50687 /* File.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		0139E6F71ACC15D0009166DB /* SampleTestTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleTestTests.swift; sourceTree = "<group>"; };
 		0139E7011ACC15E5009166DB /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		0139E7021ACC15E5009166DB /* TableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		01E6657E1B1B721200F50687 /* File.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +91,7 @@
 				0139E6DF1ACC15D0009166DB /* Supporting Files */,
 				0139E7011ACC15E5009166DB /* TableViewCell.swift */,
 				0139E7021ACC15E5009166DB /* TableViewCell.xib */,
+				01E6657E1B1B721200F50687 /* File.txt */,
 			);
 			path = SampleTest;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01E6657F1B1B721200F50687 /* File.txt in Resources */,
 				0139E6E71ACC15D0009166DB /* Main.storyboard in Resources */,
 				0139E7041ACC15E5009166DB /* TableViewCell.xib in Resources */,
 				0139E6EC1ACC15D0009166DB /* LaunchScreen.xib in Resources */,
@@ -415,6 +419,7 @@
 				0139E6FD1ACC15D0009166DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0139E6FE1ACC15D0009166DB /* Build configuration list for PBXNativeTarget "SampleTestTests" */ = {
 			isa = XCConfigurationList;
@@ -423,6 +428,7 @@
 				0139E7001ACC15D0009166DB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
