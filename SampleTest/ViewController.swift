@@ -45,6 +45,7 @@ class ViewController: UIViewController {
     
     func newMethod()
     {
+        //feature2
         println()
     }
 
